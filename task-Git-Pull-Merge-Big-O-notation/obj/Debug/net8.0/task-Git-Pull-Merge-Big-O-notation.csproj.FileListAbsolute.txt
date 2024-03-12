@@ -1,0 +1,15 @@
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\bin\Debug\net8.0\task-Git-Pull-Merge-Big-O-notation.exe
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\bin\Debug\net8.0\task-Git-Pull-Merge-Big-O-notation.deps.json
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\bin\Debug\net8.0\task-Git-Pull-Merge-Big-O-notation.runtimeconfig.json
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\bin\Debug\net8.0\task-Git-Pull-Merge-Big-O-notation.dll
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\bin\Debug\net8.0\task-Git-Pull-Merge-Big-O-notation.pdb
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\obj\Debug\net8.0\task-Git-Pull-Merge-Big-O-notation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\obj\Debug\net8.0\task-Git-Pull-Merge-Big-O-notation.AssemblyInfoInputs.cache
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\obj\Debug\net8.0\task-Git-Pull-Merge-Big-O-notation.AssemblyInfo.cs
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\obj\Debug\net8.0\task-Git-Pull-Merge-Big-O-notation.csproj.CoreCompileInputs.cache
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\obj\Debug\net8.0\task-Git-Pull-Merge-Big-O-notation.sourcelink.json
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\obj\Debug\net8.0\task-Git-Pull-Merge-Big-O-notation.dll
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\obj\Debug\net8.0\refint\task-Git-Pull-Merge-Big-O-notation.dll
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\obj\Debug\net8.0\task-Git-Pull-Merge-Big-O-notation.pdb
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\obj\Debug\net8.0\task-Git-Pull-Merge-Big-O-notation.genruntimeconfig.cache
+C:\Users\dvecy\OneDrive\Belgeler\Development\task-Git-Pull-Merge-Big-O-notation\task-Git-Pull-Merge-Big-O-notation\obj\Debug\net8.0\ref\task-Git-Pull-Merge-Big-O-notation.dll
